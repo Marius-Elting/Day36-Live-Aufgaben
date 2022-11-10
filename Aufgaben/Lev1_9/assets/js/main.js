@@ -1,5 +1,3 @@
-
-
 let button = document.getElementById("button");
 let select = document.getElementById("farbeAuswahlen");
 let option = select.children;
